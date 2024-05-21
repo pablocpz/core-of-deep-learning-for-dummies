@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/274514146_1076466279_2124695207.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/2789044632_2526496290_3673484560.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/2789044632_3560111675_2153662141.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/2789044632_2526496290_1689132635.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/2789044632_3801762147_2622370023.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/2789044632_2500066835_2109444801.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/Activation Functions/720p30/partial_movie_files/ValueTrackerExample/2789044632_2526496290_2574196106.mp4'

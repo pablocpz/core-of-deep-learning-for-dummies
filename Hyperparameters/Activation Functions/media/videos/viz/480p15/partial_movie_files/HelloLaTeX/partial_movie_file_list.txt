@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/viz/480p15/partial_movie_files/HelloLaTeX/4266129954_3980885726_3555012781.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/viz/480p15/partial_movie_files/HelloLaTeX/1442284246_345352296_2500601075.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/viz/480p15/partial_movie_files/HelloLaTeX/1442284246_766606814_3726203882.mp4'
+file 'file:C:/Users/pablo/Mi unidad/Neural Networks/resources/code/Hyperparameters/Activation Functions/media/videos/viz/480p15/partial_movie_files/HelloLaTeX/1442284246_2292429055_3793081203.mp4'

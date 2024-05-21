@@ -1,2 +1,2 @@
-# deep-learning-coree
+# Core & Fundamentals of Deep Learning for everyone
  

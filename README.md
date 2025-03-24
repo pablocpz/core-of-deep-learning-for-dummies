@@ -4,22 +4,21 @@ Welcome to this repository! This is a curated collection of code, annotations, a
 
 ## 📌 What You'll Find Here
 
-This repository covers key topics in deep learning, including:
 
 📂 **Gradient Descent** – Understanding optimization techniques
+
 📂 **Hyperparameters** – How to tune and optimize models
+
 📂 **Overfitting & Cross-Validation** – Preventing overfitting and improving generalization
+
 📂 **Regularization** – Techniques like L1/L2 regularization and dropout
+
 📂 **Experiments** – Various hands-on deep learning projects
+
 📂 **Tasks** – Practice exercises to reinforce learning
 
-## 🔥 Why This Repository?
 
-- **Beginner-Friendly**: Explained with clarity for easy understanding
-- **Hands-On Learning**: Code-driven approach with real-world examples
-- **Well-Structured**: Organized by topic for smooth learning
-
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```sh

@@ -1,4 +1,4 @@
-# 🌟 Core & Fundamentals of Deep Learning for Everyone
+# Core & Fundamentals of Deep Learning for Everyone
 
 Welcome to this repository! This is a curated collection of code, annotations, and experiments that I've compiled since I started exploring deep learning.
 
